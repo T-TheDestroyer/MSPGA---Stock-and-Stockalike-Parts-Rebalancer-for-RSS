@@ -1,4 +1,4 @@
-MSPGA - Make Stock Parts Great Again
+MSPGA - Make Stock Parts Great Again - 
 A Stock and Stockalike Parts Rebalancer for RSS
 
 MSPGA is a lightweight rebalance mod designed to bridge the gap between stock Kerbal Space Program gameplay and the extreme realism of full Realism Overhaul.
